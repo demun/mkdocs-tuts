@@ -7,6 +7,7 @@ pages:
     - '구조': 'guide/tree.md'
     - '기타': 'guide/others.md'
     - 'Admonition': 'guide/admonition.md'
+    - '배포': 'guide/publish.md'
 theme: readthedocs
 markdown_extensions:
   - admonition
